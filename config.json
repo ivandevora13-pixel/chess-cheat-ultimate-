@@ -1,0 +1,16 @@
+{
+  "region": [
+    293,
+    209,
+    803,
+    800
+  ],
+  "flipped": false,
+  "template": "neo",
+  "movetime_ms": 200,
+  "mode": "track",
+  "turn": "white",
+  "overlay": true,
+  "engine": null,
+  "paused": true
+}
